@@ -1,0 +1,10 @@
+---
+title: "DATASCI 350 Quiz 02 Website"
+---
+
+The Gapminder dataset contains country-level data on life expectancy, population, and GDP per capita from 1952 to 2007.
+
+## Pages
+- [Life Expectancy and GDP per Capita](life-gdp.qmd)
+- [Life Expectancy and Population](life-population.qmd)
+- [Country Analysis](country.qmd)

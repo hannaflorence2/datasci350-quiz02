@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Gapminder Website"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Life and GDP"
+        href: life-gdp.qmd
+      - text: "Life and Population"
+        href: life-population.qmd
+      - text: "Country Analysis"
+        href: country.qmd
+
+format:
+  html:
+    theme: sandstone
+    toc: true
+
+
